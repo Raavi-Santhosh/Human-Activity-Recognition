@@ -9,3 +9,7 @@ This dataset is collected from 30 persons(referred as subjects in this dataset),
 2. Deployed in Azure and Amazon EC2 platforms
 
 ![image1](https://raw.githubusercontent.com/Raavi-Santhosh/Human-Activity-Recognition/master/Screen%20Shot%202020-04-16%20at%2011.45.40%20AM.png)
+
+![image2](https://raw.githubusercontent.com/Raavi-Santhosh/Human-Activity-Recognition/master/Screen%20Shot%202020-04-16%20at%2011.46.00%20AM.png)
+
+![image3](https://raw.githubusercontent.com/Raavi-Santhosh/Human-Activity-Recognition/master/Screen%20Shot%202020-04-16%20at%2013.37.39%20PM.png)
