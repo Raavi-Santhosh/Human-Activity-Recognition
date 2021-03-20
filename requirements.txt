@@ -3,7 +3,7 @@ flask-marshmallow==0.11.0
 Flask-RESTful==0.3.8
 Flask-SQLAlchemy==2.4.1
 GitPython==3.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.14.1
 json5==0.9.4
 jsonpickle==1.3
